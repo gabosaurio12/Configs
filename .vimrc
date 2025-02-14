@@ -40,7 +40,6 @@ Plug 'scrooloose/nerdtree'
 " Typing
 Plug 'jiangmiao/auto-pairs'
 Plug 'tpope/vim-surround'
-Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
 " IDE
 Plug 'mhinz/vim-signify'
