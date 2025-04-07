@@ -1,1 +1,0 @@
-/Users/gabosaurio/.config/nvim/.vimrc
